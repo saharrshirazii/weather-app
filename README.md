@@ -38,12 +38,11 @@ When the user enters a city name and clicks the search button:
 4. If the city name is invalid, an error message is shown.
 
 ## 🧭 Folder Structure
-weather-app/<br>
-│
-├── index.html<br>
-├── style.css<br>
-├── script.js<br>
-└── README.md<br>
+weather-app:
+- index.html
+- style.css
+- script.js
+- README.md
 
 ## 💡 Future Improvements
 
