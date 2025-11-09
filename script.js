@@ -1,3 +1,4 @@
+// https://api.openweathermap.org/data/2.5/weather?q=berlin&appid=dce129505fd9218527e8c065abc2dfa5&units=metric
 const apiKey = "dce129505fd9218527e8c065abc2dfa5";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
