@@ -54,6 +54,6 @@ weather-app/
 
 ## 🖋️ Author
 
-👤 Sahar Shirazi
+👤 Sahar Shirazi<br>
 💻 [GitHub Profile](https://github.com/saharrshirazii/)
 
