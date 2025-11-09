@@ -1,0 +1,112 @@
+/* Reset CSS styles - Normalize Base Style */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(42, 42, 42);
+}
+
+/* card */
+.card{
+    width: 90%;
+    max-width: 470px;
+    background: linear-gradient(180deg, #89ccf8, #2752aa);
+    color: white;
+    margin: 100px auto 0;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+/* search */
+.search{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search input{
+    border: none;
+    outline: none;
+    background: #e3f1fa;
+    color: #555;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-size: 18px;
+    margin-right: 15px;
+    flex: 1;
+}
+.search button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: #e3f1fa;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    /* box-shadow: 0 8px 16px #555; */
+}
+button i{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+/* error */
+.error{
+
+text-align: left;
+margin-left: 10px;
+font-size: 14px;
+margin-top: 10px;
+display: none;
+}
+
+/* weather*/
+
+.condition{
+     font-size: 20px;
+    font-weight: 50;
+    margin-top: 10px;
+}
+.weather i{
+    font-size: 170px;
+    margin-top: 30px;
+}
+.weather h1{
+    font-size: 70px;
+    font-weight: 500;
+    margin-top: 50px;
+
+}
+.weather h2{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;   
+    align-items: center;
+    padding: 0 20px;
+}
+.col{
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+.col i{
+    font-size: 40px;
+    margin-right: 20px;
+}
+.humidity, .wind{
+    font-size: 25px;
+    margin-top: 25px;
+}
