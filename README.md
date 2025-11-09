@@ -8,7 +8,7 @@ A simple and responsive **Weather Application** built with **HTML, CSS, and Java
 ![App Screenshot](./images/preview.png)
 
 ## Features
-✅ Search for any city around the world
+✅ Search for any city around the world<br>
 ✅ Display of:
  - Current temperature (°C)
  - City name
@@ -16,8 +16,8 @@ A simple and responsive **Weather Application** built with **HTML, CSS, and Java
  - Humidity (%)
  - Wind speed (km/h)
 
-✅ Dynamic weather icons that change based on the weather condition
-✅ Default city: **Gothenburg**
+✅ Dynamic weather icons that change based on the weather condition<br>
+✅ Default city: **Gothenburg**<br>
 ✅ Error message when entering an invalid city name
 
 ## 🧩 Tech Stack
@@ -38,12 +38,12 @@ When the user enters a city name and clicks the search button:
 4. If the city name is invalid, an error message is shown.
 
 ## 🧭 Folder Structure
-weather-app/
+weather-app/<br>
 │
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
+└── README.md<br>
 
 ## 💡 Future Improvements
 
